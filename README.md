@@ -5,7 +5,7 @@ This dataset contains Electroencephalogram (EEG) signals recorded from a subject
 Data Type: Raw EEG.<br />
 EEG Sensor: Neurosky MindWave.<br />
 Channel: Single electrode on forehead (close to F<sub>PZ</sub>).<br />
-Smapling Rate: 512Hz.<br />
+Sampling Rate: 512Hz.<br />
 Mental Task: Rest state (sitting on chair with open and closed eyes).<br />
 Duration: More than <b>two minutes</b> upto about three minutes for each file.<br />
 Time of Day: Random (usually around 10 a.m. and 5 p.m.).<br />
